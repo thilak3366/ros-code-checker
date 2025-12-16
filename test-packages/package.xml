@@ -1,0 +1,7 @@
+<package format="3">
+  <name>good_pkg</name>
+  <version>0.0.0</version>
+  <description>Good ROS2 package</description>
+  <maintainer email="test@test.com">test</maintainer>
+  <license>Apache-2.0</license>
+</package>
